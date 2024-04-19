@@ -1,0 +1,5 @@
+@media (min-width: 320px) and (max-width: 768px) {
+    .valentines-day-card{
+        width: 300px;
+    }
+}
